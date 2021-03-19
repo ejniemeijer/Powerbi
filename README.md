@@ -1,4 +1,4 @@
 # Initial page
 
-Test content
+Test Content
 
